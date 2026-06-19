@@ -1,5 +1,10 @@
 {
   "/page": "app/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
   "/book-workspace/page": "app/book-workspace/page.js",
-  "/booking-history/page": "app/booking-history/page.js"
+  "/login/page": "app/login/page.js",
+  "/register/page": "app/register/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/services/page": "app/services/page.js",
+  "/about/page": "app/about/page.js"
 }
