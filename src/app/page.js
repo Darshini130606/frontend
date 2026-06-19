@@ -9,7 +9,7 @@ export default function LandingPage() {
       <section className="hero-photo min-h-[620px] text-white">
         <div className="mx-auto flex min-h-[620px] max-w-7xl flex-col justify-center px-4 py-16 sm:px-6 lg:px-8">
           <div className="max-w-2xl">
-            <h1 className="text-4xl font-bold leading-tight sm:text-5xl">CoWork Hub</h1>
+            <h1 className="text-4xl font-bold leading-tight sm:text-5xl">COLLAB HUB </h1>
             <p className="mt-5 text-lg leading-8 text-white/90">
               Manage coworking spaces, bookings, users, payments, and reports from one professional workspace platform.
             </p>
